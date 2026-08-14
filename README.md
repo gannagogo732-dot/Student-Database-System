@@ -8,7 +8,7 @@ A dynamic, C-based **Student Database Management System** implemented using **Mo
 * **Programming Language:** C (ANSI C)[span_1](start_span)[span_1](end_span)
 * **Architecture:** Modular Programming (Separation of Concerns: Application vs. Database Logic)[span_2](start_span)[span_2](end_span)
 * **Data Types:** Custom Standard Data Types (`uint8`, `uint32`, `bool`) for Memory Optimization[span_3](start_span)[span_3](end_span)
-* **Data Structure:** Structures (`struct`), Fixed Arrays, and Array Left_Shifting for Deletion[span_4](start_span)[span_4](end_span)
+* **Data Structure:** Structures (`struct`), Fixed Arrays, and Array Shifting for Dynamic-like Deletion[span_4](start_span)[span_4](end_span)
 * **Version Control:** Git & GitHub
 
 ---
@@ -26,7 +26,7 @@ The project follows strict modular programming principles and is structured into
 * ➕ **Add Student:** Validate ID uniqueness and append to database[span_9](start_span)[span_9](end_span).
 * 📖 **Read Entry:** Search by Student ID and display complete course grades[span_10](start_span)[span_10](end_span).
 * 📋 **Get ID List:** Fetch total active students and array of registered IDs[span_11](start_span)[span_11](end_span).
-* ❌ **Delete Entry:** Logical and physical memory cleanup via array left-shifting logic(overwriting elements in static array)[span_12](start_span)[span_12](end_span).
+* ❌ **Delete Entry:** Logical and physical memory cleanup via array left-shifting logic[span_12](start_span)[span_12](end_span).
 * 🔍 **ID Check & Capacity Guard:** Verify ID existence and handle database full/empty boundary checks[span_13](start_span)[span_13](end_span).
 
 ---
