@@ -5,7 +5,7 @@ A C-based **Student Database Management System** implemented using **Modular Pro
 ---
 
 ## 🛠️ Technologies & Concepts Used
-* **Programming Language:** C (ANSI C)
+* **Programming Language:** C 
 * **Architecture:** Modular Programming (Separation of Concerns: Application vs. Database Logic)
 * **Data Types:** Custom Standard Data Types (`uint8`, `uint32`, `bool`) for Memory Optimization
 * **Data Structure:** Fixed-Size Arrays, Structures (`struct`), and Array Left-Shifting Logic for Deletion
